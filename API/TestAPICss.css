@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+meta: {
+	limit: 25,
+	cache-expiry: 3600;
+}
