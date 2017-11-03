@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+h1 {
+	@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+	font-family: 'Noto Serif', serif;
+	@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+	font: ;
+}
+
+#hrthick {
+	border-width: 5px;
+	border-color: black;
+	height: 500px;
+	background-color: black;
+}
+
